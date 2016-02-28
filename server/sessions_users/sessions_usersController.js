@@ -17,6 +17,7 @@ module.exports = {
         User.findAll( {where: {id: {$in: users}}} )
         .then( function(users) {
           res.send(users);
+          next();
         } )
       } )
     } )
