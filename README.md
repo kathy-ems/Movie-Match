@@ -126,9 +126,14 @@ ROOT
 
 ### Roadmap
 
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
+View the project roadmap [here](https://waffle.io/RubiginousChanticleer/rubiginouschanticleer)
 
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Start server
+- `npm install`
+- `nodemon`
+- navigate to localhost:3000
